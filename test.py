@@ -8,7 +8,7 @@ def sum_array(_x: np.ndarray, _y: np.ndarray) -> np.ndarray:
     """
     This function take input _x and _y and returns its sum.
     :param _x:
-    :param _y: 
+    :param _y:
     :return:
     """
     return _x + _y
