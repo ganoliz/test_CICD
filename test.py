@@ -1,6 +1,3 @@
-"""
-This module is a test for pylint tutorial.
-"""
 import numpy as np
 
 
