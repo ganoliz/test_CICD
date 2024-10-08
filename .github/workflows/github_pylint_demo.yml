@@ -10,7 +10,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - names: Set up python
+      - name: Set up python
         uses: actions/setup-python@v2
         with:
           python-version: '3.10'
